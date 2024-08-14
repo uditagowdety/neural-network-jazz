@@ -45,4 +45,4 @@ print(layer2.output)
 #         inputs[0]*weights3[0]+inputs[1]*weights3[1]+inputs[2]*weights3[2]+inputs[3]*weights3[3]+bias3
 #        ]
 
-#update 140824: got sidetracked a lot because of other work, ready to get back to this :)
+#update 140824: got sidetracked a lot because of other work, ready to get back to this :))
